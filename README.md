@@ -25,7 +25,7 @@ A formação une teoria e prática por meio de projetos aplicados, proporcionand
 ### 📅 Informações das Aulas
 * **Modalidade:** Ensino a Distância (EaD) com aulas síncronas.
 * **Duração Total:** 60 horas.
-* **Cronograma:** Terças e Quintas-feiras.
+* **Dias das aulas síncronas:** Terças e Quintas-feiras.
 * **Horário:** 19h00.
 
 ## 🛠️ Tecnologias e Competências Abordadas
